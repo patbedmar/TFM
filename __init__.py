@@ -1,0 +1,1 @@
+from traductor_sdh.traductor import TraductorSDH
